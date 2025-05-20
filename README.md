@@ -1,3 +1,4 @@
+# About me
 Hello :) 
 My name is Ari!
 I am a 2nd year Computer Science major
